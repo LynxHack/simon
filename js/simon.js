@@ -73,7 +73,7 @@ function NoteBox(key, onClick) {
 			playNewSeq();
 		}
 		
-		// // Easy Task, just replay the keys, commented out to test challenge task
+		// // EASY TASK, just replay the keys, commented out to test challenge task
 		// // Initiate 2.5 second countdown
 		// if(waitForUser){
 		// 	clearTimeout(waitForUser); //if user enters a new key, clear the timeout
